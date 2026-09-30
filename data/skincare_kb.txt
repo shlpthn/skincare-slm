@@ -1,0 +1,14 @@
+acne::Use BHA or niacinamide; avoid heavy oils.
+oily skin::Use gel cleansers, niacinamide, BHA, and oil-free moisturizers.
+dry skin::Use cream cleansers, ceramides, and hyaluronic acid; avoid foaming cleansers.
+sensitive skin::Use fragrance-free cleanser and moisturizer; avoid strong acids and retinol.
+hyperpigmentation::Use niacinamide or azelaic acid; avoid strong vitamin C if sensitive.
+pimples::Use BHA or salicylic acid; avoid heavy oils.
+blackheads::Use BHA; avoid pore-clogging products.
+whiteheads::Use gentle exfoliation and BHA; avoid heavy creams.
+dark spots::Use niacinamide or azelaic acid; avoid harsh scrubs.
+redness::Use soothing ingredients like centella or niacinamide; avoid strong exfoliants.
+large pores::Use niacinamide and BHA; avoid thick oils.
+sun damage::Use SPF 30+ daily; avoid unprotected sun exposure.
+dehydrated skin::Use hyaluronic acid and light moisturizers; avoid alcohol-heavy products.
+combination skin::Use gel cleansers; moisturize dry areas; avoid heavy oils in T-zone.
